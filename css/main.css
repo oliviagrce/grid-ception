@@ -13,6 +13,7 @@ html {
   text-size-adjust: 100%;
 
   font: normal 100%/1.3 sans-serif;
+  font-family: sans-serif;
 }
 
 *, *::before, *::after {
